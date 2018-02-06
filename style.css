@@ -1,0 +1,32 @@
+.bar1 {background: gray; 
+    height: 20px; 
+    width: 100px; 
+    margin: 10px; 
+    color: rgba(128, 128, 128, 0); 
+ }
+.bar2 {
+    background: rgb(231, 11, 11);
+    height: 20px; 
+    width: 100px; 
+    margin: 10px; 
+    color: rgba(128, 128, 128, 0);
+}
+.ash {
+    background: grey;
+    color: rgba(240, 248, 255, 0);
+}
+.ashy{
+    background: red;
+    color: rgba(240, 248, 255, 0);
+
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    background: rgba(128, 128, 128, 0.274);
+}
+
+.bar {
+    display: inline;
+}
+
